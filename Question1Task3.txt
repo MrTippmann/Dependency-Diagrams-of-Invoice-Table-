@@ -1,0 +1,12 @@
+A database is an organized collection of structured information, or data, typically stored electronically in a computer system.
+The data in a database is structured by data models. 
+
+Database Languages:
+
+Data Definition Language (DDL): A data definition language(DDL) defines data types and hte relationships among them.
+
+Data Manipulation Language(DML): A data manipulation language(DML) performs tasks such as inserting, updating and deleting data in a data base.
+                                 Two types of DMLs - Procedural Programming and Declaritive Programming. 
+
+Query Languages: A query language, such as SQL(Structured Query Language) facilitates searching for information and computing derived information.
+
